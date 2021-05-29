@@ -1,11 +1,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Vipul Arora
+title: Tharun
 
 
 baseurl:  # the subpath of the site
-url: "https://vipular.github.io" # the base hostname & protocol for the site
+url: "https://anmolagrawala.github.io/tharun1.github.io/" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 
 
@@ -25,8 +25,8 @@ footer:
 
   contact:
     - name: Email
-      value: vipular@iitk.ac.in
-      link: mailto:vipular@iitk.ac.in
+      value: tharun@iitism.ac.in
+      link: mailto:tharun@iitism.ac.in
 
   follow:
 
