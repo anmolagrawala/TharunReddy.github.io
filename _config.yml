@@ -5,7 +5,7 @@ title: Tharun
 
 
 baseurl:  # the subpath of the site
-url: "https://anmolagrawala.github.io/tharun1.github.io/" # the base hostname & protocol for the site
+url: "https://anmolagrawala.github.io/" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 
 
