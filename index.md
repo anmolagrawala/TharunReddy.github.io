@@ -1,19 +1,20 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/img1.png
   alt: website picture
 ---
 ## <span style="color: Green">About me:</span>
-I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. My Ph.D. thesis was titled "[<ins>Analysis of Pitched Polyphonic Music for Source Transcription</ins>](https://drive.google.com/file/d/0By8wZfM49Y2ScC1vc2lVX0I1c1U/view)", where I worked on analyzing music audio to identify and transcribe different instruments/voices playing simultaneously. During postdoc at Oxford University (UK), I developed [<ins>speech recognition</ins>](https://www.youtube.com/watch?v=Tgr3Y_U9BsQ) systems using linguistic principles, with applications in automatic language teacher and speech recognition for low-resource languages. At Amazon in Boston (USA), I worked on audio classification for developing Alexa [<ins>home security</ins>](https://www.theverge.com/2018/9/20/17883428/amazon-alexa-guard-alarm-ring-smart-home-security-price) system, with research focusing on classification with imbalanced data.
+I received my B.Tech. and PhD Thesis defense in [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. My Ph.D. thesis was titled "[<ins>Neural Networks based Optimal Learning and Filtering schemes for
+EEG Reaction-Time Prediction Brain-Computer Interfaces</ins>](https://drive.google.com/file/d/0By8wZfM49Y2ScC1vc2lVX0I1c1U/view)", and my Senior M.Tech-Ph.D joint degree where I worked on Learning and Divergence based approaches for drowsiness detection.
 
-<span style="color: blue"><b>Research interests:</b> machine learning, signal processing, machine learning for Physics, time series analysis</span>
+<span style="color: blue"><b>Research interests:</b> Machine learning, Deep Learning, Neural Networks, Brain Computer Interfaces,EEG Signal Processing</span>
 
 
-## <span style="color: Green">Opportunities</span>
-- <span style="color: DarkRed">Opening for a research scientist/engineer in music processing [apply here](https://forms.office.com/r/KKj7294qtf)</span>
-- I am looking for students/post-docs with computational music or Physics background to join my group.
- - UG students with music knowledge and experience in signal processing and coding are welcome to apply for SURGE or UG projects.
+## <span style="color: Green">Technical Skills</span>
+- **Advanced** MATLAB
+- **Intermediate** Python, Keras, Weka
+- **Basic** C/C++, Mathematica, EEGLAB, OpenVibe, PyTorch, Tensorflow
 
 ## <span style="color: green">Research</span>
 
@@ -23,22 +24,15 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 - Machine learning for Physics                            
 - Time series analysis on sensor data
 
-## <span style="color: Green">News:</span>  
+## <span style="color: Green">Research Experience (most recent):</span>  
 
-| 22 Jan 2021: <br>**Positions secured in [International BCI competition organized by IEEE Brain](http://brain.korea.ac.kr/bci2021/competition.php)**:<br>-	1st position in few shot learning track <br>-	1st position in microsleep detection <br>-	3rd position in EEG based ERP detection <br>-	4th position in upper limb movements decoding <br>-	7th position in imagined sleep classification <br> Team members: Dr. Tharun Reddy, Madhurdeep Jain, Jinang Shah, Palashdeep Singh,  Vartika Gupta, Kushangi Mittal, Archit Bansal, Chittoor Murari|
-| 3 Dec 2020: <br>**Paper accepted in IEEE CICT 2020**: Shivangi Ranjan and Vipul Arora, "A Bioinformatic Method Of Semi-Global Alignment For Query-By-Humming", in IEEE Conference on Information and Communication Technology (CICT), 2020, pp. 1–5 |
-| 24 July 2020: <br>**Clinical BCI Challenge 2020**: Our team (named iBCI) secured overall 2nd position in [Clinical BCI Challenge at IEEE WCCI 2020](https://sites.google.com/view/bci-comp-wcci/) |
-| 9 July 2020: <br>**Grant approved by MPCB**: "Technical Assessment of Low-Cost Sensor based PM2.5 and PM10 Monitoring Network in Maharashtra" |
-| 25 Apr 2020: <br>**SP Cup 2020**: Our team secured 6th position in [IEEE Signal Processing Cup competition 2020](https://signalprocessingsociety.org/community-involvement/signal-processing-cup) |
-| 21 Mar 2020: <br>**Paper accepted in FUZZ-IEEE 2020**: Tharun Kumar Reddy, Vipul Arora, Laxmidhar Behera, Yukai Wang and Chin Teng Lin, "Fuzzy Divergence Based Analysis For EEG Drowsiness Detection Brain Computer Interfaces ", IEEE International Conference on Fuzzy Systems, 2020. |
-| 24 Jan 2020:<br>**Paper accepted in ICASSP 2020**: Satyam Kumar, Tharun Kumar Reddy, Vipul Arora, and Laxmidhar Behera, "Formulating Divergence Framework For Multiclass Motor Imagery EEG Brain Computer Interface", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020. |
-| 11 Nov 2019:<br>**ASEM DUO 2020 Professor Fellowship Award**: for research exchange with University of Surrey, UK |
-| 28 June 2019:<br>**IMPRINT-2C grant approved**: "Smart music tutor for Indian classical music" |
-| 15 May 2019:<br>**Paper presented in ICASSP 2019**: Vipul Arora, Ming Sun and Chao Wang, "Deep Embeddings for Rare Audio Event Detection With Imbalanced Data", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019. [[poster]](https://sigport.org/sites/default/files/docs/POSTER_vipul_0.pdf) |
-| 13 May 2019:<br>**General Linguistics Seminar Talk at University of Oxford**: titled "Modern speech technologies and applications of phonology. |
-| 1 May 2019:<br>**Initiation grant approved**: "Machine Learning for Physics |
-| 6 Feb 2019: <br>**SPARC grant approved**: Collaboration project between IITK and MIT, titled "Machine Learning for Lattice Quantum Chromodynamics" |
-| 1 Feb 2019:<br>**Paper accepted in ICASSP 2019**: Vipul Arora, Ming Sun and Chao Wang, "Deep Embeddings for Rare Audio Event Detection With Imbalanced Data", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019. [[pdf]](https://drive.google.com/file/d/1Z7wCbKnz1YqvVVmQF40FeXUGIrpkgY3t/view) [[blog]](https://www.amazon.science/blog/to-correct-imbalances-in-training-data-dont-oversample-cluster) |
+| 2020 August- 2021 March: <br> [International BCI Competition winner 2021](http://brain.korea.ac.kr/bci2021/competition.php) :<br>- I served as the **team-leader** of the **only three teams** from India winning in **three** out of **five** tracks of the prestigious International Brain Computer Interface competition 2021 <br>-	1st position in microsleep detection <br>- In this work as part of track-1 event, we try to decode imagined motor movements using few-shot learning <br>-	In this work as part of track-2 event, we try to decode micro-sleep events in drivers using transfer learning <br>-	In this work as part of track-5 event, we try to decode P-300 ERPs during walking <br>- Special emphasis is put on accuracy of decoding and final kappa/ROC curve|
+|2020 Jun -August: <br>**Clinical BCI challenge for Hemi-paretic patients**: <br>- Implemented with Prof. Laxmidhar Behera, Prof. Vipul Arora and group for Clinical BCI challenge 2020, WCCI, Glasgow, UK. Our team **i-BCI ranked no. 2** in the final score-board <br>- In this work, we try to decode imagined motor movements of Hemi-paretic stroke patients <br> Specific contributions are: <br>- Development of non-Euclidean signal processing methods for both cross-subject and within-subject challenges <br>- Special emphasis is put on accuracy of decoding and final kappa score |
+|June 2017 to 2019 current: <br>**EEG Reaction-Time Prediction Brain Computer Interface**: <br>- Ongoing project with Prof. CT Lin, Prof. Yukai Wang, Prof. Laxmidhar Behera & Prof. Vipul Arora <br>- Implemented deep dual task networks for learning. <br>- The time information is an input in RNN structure EEG has good temporal resolution.In this case, RNN is quite suitable for processing EEG data. We employ RNN to analyze continuous EEG signals for better BCI performance. |
+| 2018-2019 current: <br>**Audio based P300 detection Brain Computer Interface**: <br>- Ongoing project with Prof. Laxmidhar Behera & Prof. Vipul Arora <br>- Implemented Riemannian Geometry based features for P300 detection.<br>- Various audio stimuli are probed and P300 waveform is detected with high accuracy and statistical confidence. |
+| 2019 Mar: <br>**Build a cost-effective Brain wave controlled wheel-chair**: <br>- Ongoing (initial phase) with Prof.Laxmidhar Behera, IIT Kanpur <br>- A cost-effective brainwave controlled the wheelchair with suitable HMIs forstroke and motor neuron patients will be developed.<br>- Development of a robotic wheelchair with an intelligent interface to be operated using Shared Control strategies. |
+| 2016 Jun -2017 Jun: <br>**Dataset collection for Object detection from a group of cluttered images**:<br>- Implemented with Prof. Laxmidhar Behera and group for Amazon picking challenge 2016, Leipzig, Germany <br>- In this work, we try to detect multiple objects in a scene based on data from Kinect 1 sensor, using state of the art Deep Convolutional Neural Network feature extractors.<br> Specific contributions are: <br>- Development of large image annotation database for the problem for both training and testing.<br>- GPU based implementation of Faster Region-CNN network for finding region proposals. |
+
 
 <br/>
 
@@ -46,11 +40,10 @@ I received my B.Tech. and Ph.D. degrees in [<ins>Electrical Engineering</ins>](h
 
 
 ## <span style="color: Green">Contact me:</span>
-**Dr. Vipul Arora**
+**Tharun Kumar Reddy Bollu**
 <br>Assistant Professor
 <br>Department of Electrical Engineering
 <br>IIT Kanpur
-<br>**Office:** 305D, ACES building 
 
 
 
