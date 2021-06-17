@@ -6,15 +6,10 @@ profile_picture:
 ---
 ## <span style="color: Green">About me:</span>
 I received my B.Tech. and PhD Thesis defense in [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. My Ph.D. thesis was titled "[<ins>Neural Networks based Optimal Learning and Filtering schemes for
-EEG Reaction-Time Prediction Brain-Computer Interfaces</ins>](https://drive.google.com/file/d/0By8wZfM49Y2ScC1vc2lVX0I1c1U/view)", and my Senior M.Tech-Ph.D joint degree where I worked on Learning and Divergence based approaches for drowsiness detection.
+EEG Reaction-Time Prediction Brain-Computer Interfaces</ins>](https://drive.google.com/file/d/1HOyRPzQv4ACFscKFfPbERQ-_Db9rF44c/view?usp=sharing)", and my Senior M.Tech-Ph.D joint degree where I worked on Learning and Divergence based approaches for drowsiness detection.
 
 <span style="color: blue"><b>Research interests:</b> Machine learning, Deep Learning, Neural Networks, Brain Computer Interfaces,EEG Signal Processing</span>
 
-
-## <span style="color: Green">Technical Skills</span>
-- **Advanced** MATLAB
-- **Intermediate** Python, Keras, Weka
-- **Basic** C/C++, Mathematica, EEGLAB, OpenVibe, PyTorch, Tensorflow
 
 ## <span style="color: green">Research</span>
 
