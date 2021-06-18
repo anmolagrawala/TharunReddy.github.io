@@ -5,4 +5,4 @@ slug: /resources
 ---
 ## Brain computer interfaces:
  **Video**:
-* https://www.youtube.com/watch?v=Wlwvgm3AHvc&list=PLbbCsk7MUIGcO_lZMbyymWU2UezVHNaMq
+* [<ins> Brain computer interfaces </ins>](https://www.youtube.com/watch?v=Wlwvgm3AHvclist=PLbbCsk7MUIGcO_lZMbyymWU2UezVHNaMq)
