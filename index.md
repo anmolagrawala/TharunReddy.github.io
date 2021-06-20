@@ -8,15 +8,17 @@ profile_picture:
 I received my B.Tech M.Tech  [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) and Phd degree from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. My Ph.D. thesis was titled "[<ins>Neural Networks based Optimal Learning and Filtering schemes for EEG Reaction-Time Prediction Brain-Computer Interfaces</ins>](https://drive.google.com/file/d/1HOyRPzQv4ACFscKFfPbERQ-_Db9rF44c/view?usp=sharing)", and my Senior 
 M.Tech degree that was titled as [<ins> Learning and Divergence based approaches for drowsiness detection</ins>](https://.drivegoogle.com/file/d/1O_e3SM5yiHwZegvkOSqVndaMydc422GP/view?usp=sharing).
 
-<span style="color: blue"><b>Research interests:</b> Machine learning, Deep Learning, Neural Networks, Brain Computer Interfaces,EEG Signal Processing</span>
+<span style="color: blue"><b>Research interests:</b> Machine learning, Brain Computer Interfaces,EEG Signal Processing</span>
 
 
 ## <span style="color: green">Research</span>
 
 <span style="color: blue">I am focusing mainly on the following areas:</span>                                                                                          
-- Machine learning
-- Brain Computer Interfaces
-- EEG signal processing 
+- Machine learning for audio analysis
+- Speech, music and acoustic events
+- Machine learning for Physics
+- Time series analysis on sensor data
+
 
 
 ## <span style="color: Green">Research Experience (most recent):</span>  
