@@ -14,10 +14,10 @@ M.Tech degree that was titled as [<ins> Learning and Divergence based approaches
 ## <span style="color: green">Research</span>
 
 <span style="color: blue">I am focusing mainly on the following areas:</span>                                                                                          
-- Machine learning for audio analysis
-- Speech, music and acoustic events
-- Machine learning for Physics
-- Time series analysis on sensor data
+- Machine learning for EEG signal processing
+- Event Related Potentials
+- Physiological Sleep signal processing
+
 
 
 
