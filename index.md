@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/IMG2.png
+  src: /assets/img/tharun_img.png
   alt: website picture
 ---
 ## <span style="color: Green">About me:</span>
