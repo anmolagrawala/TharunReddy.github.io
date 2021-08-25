@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: assets/img/IMG2.png
+  src: ![IMG2](https://user-images.githubusercontent.com/18737816/130725812-6c760c97-ac74-44d2-923e-fb2046b7e285.png)
   alt: website picture
 ---
 ## <span style="color: Green">About me:</span>
