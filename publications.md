@@ -30,8 +30,7 @@ slug: /publications
 3. Reddy, T.K., Arora, V. and Behera, L., 2018. HJB-equation-based optimal learning scheme for neural networks with applications in the brain–computer interface. IEEE Transactions on Emerging Topics in Computational Intelligence, 4(2), pp.159-170.
 4. Reddy, T.K., Arora, V., Kumar, S., Behera, L., Wang, Y.K. and Lin, C.T., 2019. Electroencephalogram based reaction time prediction with differential phase synchrony representations using co-operative multi-task deep neural networks. IEEE Transactions on Emerging Topics in Computational Intelligence, 3(5), pp.369-379.
 5. Tharun Kumar Reddy and Laxmidhar Behera,‘Driver Drowsiness Detection using Intelligent BCI ’ accepted at IEEE Systems, Man and Cybernetics Magazine.
-6. Tharun Kumar Reddy and Laxmidhar Behera, ‘Time Optimal HJB Equation based Learning Scheme for Neural Networks with Applications in Brain Computer Interface’ accepted at IEEE Systems, Man and Cybernetics Magazine.
-7. Tharun Kumar Reddy, Vipul Arora, Rupam Biswas, Vinay Gupta and Laxmidhar Behera, ‘EEG Based Drowsiness Detection With Fuzzy Independent Phase Locking Value Representations Using Lagrangian Based Deep Neural Networks’ in second review round at IEEE transactions on Systems, Man and Cybernetics.
+6. Tharun Kumar Reddy, Vipul Arora, Rupam Biswas, Vinay Gupta and Laxmidhar Behera, ‘EEG Based Drowsiness Detection With Fuzzy Independent Phase Locking Value Representations Using Lagrangian Based Deep Neural Networks’ in second review round at IEEE transactions on Systems, Man and Cybernetics.
 
 ## <span style="color: orangered">Conferences</span>
 
