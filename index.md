@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 ---
 ## <span style="color: Green"> About me </span>
-I received my B.Tech (in 2013), joint M.Tech and Phd degrees (in 2020) in  [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India.My Ph.D. thesis was titled "[<ins>Neural Networks based Optimal Learning and Filtering schemes for EEG Reaction-Time Prediction Brain-Computer Interfaces</ins>](https://drive.google.com/file/d/1HOyRPzQv4ACFscKFfPbERQ-_Db9rF44c/view?usp=sharing)", and my M.Tech thesis  was titled as [<ins> Learning and Divergence based approaches for drowsiness detection</ins>](https://.drivegoogle.com/file/d/1O_e3SM5yiHwZegvkOSqVndaMydc422GP/view?usp=sharing).
+I received my B.Tech (in 2013), joint M.Tech and Phd degrees (in 2020) in  [<ins>Electrical Engineering</ins>](http://www.iitk.ac.in/ee/) from the [<ins>Indian Institute of Technology (IIT) Kanpur</ins>](http://www.iitk.ac.in/), India. My Ph.D. thesis was titled "[<ins>Neural Networks based Optimal Learning and Filtering schemes for EEG Reaction-Time Prediction Brain-Computer Interfaces</ins>](https://drive.google.com/file/d/1HOyRPzQv4ACFscKFfPbERQ-_Db9rF44c/view?usp=sharing)", and my M.Tech thesis  was titled as [<ins> Learning and Divergence based approaches for drowsiness detection</ins>](https://.drivegoogle.com/file/d/1O_e3SM5yiHwZegvkOSqVndaMydc422GP/view?usp=sharing).
 
 <span style="color: blue"><b>Research interests:</b> Machine learning, Brain Computer Interfaces,EEG Signal Processing</span>
 
