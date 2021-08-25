@@ -1,5 +1,4 @@
-The webpage is https://vipular.github.io/
-
+The webpage is https://tharuniitk.github.io/
 # bay
 
 Bay is a simple theme for Jekyll. [[view live]](https://eliottvincent.github.io/bay)
