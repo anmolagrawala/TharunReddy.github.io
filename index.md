@@ -12,10 +12,11 @@ I received my B.Tech (in 2013), joint M.Tech and Phd degrees (in 2020) in  [<ins
 
 ## <span style="color: green">Research</span>
 
-<span style="color: blue">I am focusing mainly on the following areas:</span>                                                                                          
+<span style="color: blue"> I am focusing mainly on the following areas: </span>                                                                                          
 - Machine learning for EEG signal processing
 - Event Related Potentials
-- Physiological Sleep signal processing
+- Therapeutic applications of Machine Learning in Healthcare
+- Neuro-ergonomics
 
 
 
@@ -32,7 +33,7 @@ I received my B.Tech (in 2013), joint M.Tech and Phd degrees (in 2020) in  [<ins
 ## <span style="color: Green">Contact me:</span>
 **Dr. Tharun Kumar Reddy Bollu**
 <br>Assistant Professor
-<br>Department of Electronics Engineering
+<br>Department of Electronics and Communication Engineering
 <br>IIT Roorkee
 
 
