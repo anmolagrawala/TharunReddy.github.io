@@ -25,7 +25,7 @@ slug: /publications
 
 ## <span style="color: orangered">Journal</span>
 
-1. Reddy, T.K., Arora, V., Behera, L., Wang, Y.K. and Lin, C.T., 2019. Multiclass Fuzzy Time-Delay Common Spatio-Spectral Patterns With Fuzzy Information Theoretic Optimization for EEG-Based Regression Problems in Brain–Computer Interface (BCI.IEEE Transactions on Fuzzy Systems, 27(10), pp.1943-1951.
+1. Reddy, T.K., Arora, V., Behera, L., Wang, Y.K. and Lin, C.T., 2019. Multiclass Fuzzy Time-Delay Common Spatio-Spectral Patterns With Fuzzy Information Theoretic Optimization for EEG-Based Regression Problems in Brain–Computer Interface (BCI.IEEE Transactions on Fuzzy Systems, 27(10), pp.1943-1951.[<ins>IEEE Transactions on Fuzzy Systems</ins>](https://ieeexplore.ieee.org/document/8611122) 
 2. Kumar, S., Reddy, T.K. and Behera, L., 2019. Divergence Framework for EEG based Multiclass Motor Imagery Brain Computer Interface. arXiv preprint arXiv:1901.07457.
 3. Reddy, T.K., Arora, V. and Behera, L., 2018. HJB-equation-based optimal learning scheme for neural networks with applications in the brain–computer interface. IEEE Transactions on Emerging Topics in Computational Intelligence, 4(2), pp.159-170.
 4. Reddy, T.K., Arora, V., Kumar, S., Behera, L., Wang, Y.K. and Lin, C.T., 2019. Electroencephalogram based reaction time prediction with differential phase synchrony representations using co-operative multi-task deep neural networks. IEEE Transactions on Emerging Topics in Computational Intelligence, 3(5), pp.369-379.
